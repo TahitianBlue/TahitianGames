@@ -34,22 +34,22 @@
 * AAAタイトル開発経験　大規模チームによる連携
 
 ### ジャンプゲームのバックエンド開発（Android, iOS）
-
+<!--- 
 [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
-
+ --->
 * **mBaaSによるサーバレス開発**（NCMBニフティクラウド利用) 
 * １５０万ダウンロード以上、３０万件のユーザーステージを共有
 * 人気ランキング、キーワード検索(regex)
 
 FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバックエンド処理を実現します。NCMB(ニフティクラウド)もBaaSの一つです。
-
+<!---
 [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
-
 * ジャンプゲームのステージが作れるエディター実装(Unity)
-
+ --->
 ### [オンライン対戦ゲームアプリ]（iOS,Android）
+<!--- 
 [オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
-
+ --->
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 
 ### [Liberapp]様 HTML5カジュアルゲーム開発
