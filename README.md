@@ -66,7 +66,7 @@ FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバッ�
 * TypeScript (EgretEngineゲームエンジン)
 * ２０１９年に１８個のカジュアルゲームを制作配信
 
-- [スーパーボールZ](https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)
+- [スーパーボールZ] (https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)
 - [レンガくずし]
 (https://liberapp.net/applications/f6d93180-09d3-11ea-801b-ab3e4d626624/)
 - [サーカスジャンプ]
