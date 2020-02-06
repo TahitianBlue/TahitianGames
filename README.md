@@ -40,7 +40,7 @@
 
 ### ジャンプゲームのユーザーステージサーバ開発（Android, iOS）
 
-[ユーザー作成ステージのサーバ共有] (https://youtu.be/p_tYWCg1OZM)
+[ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 
 * **mBaaSによるサーバレス開発**（NCMBニフティクラウド利用) 
 * １５０万ダウンロード以上、３０万件のユーザーステージを共有
@@ -49,7 +49,7 @@
 
 FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバックエンド処理を実現します。NCMB(ニフティクラウド)もBaaSの一つです。
 
-[ステージメーカー（エディター）] (https://www.youtube.com/watch?v=i24cz-YEUDk)
+[ステージメーカー（エディター）](https://www.youtube.com/watch?v=i24cz-YEUDk)
 
 * ジャンプゲームのステージが作れるエディター実装
 
