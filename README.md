@@ -40,7 +40,7 @@
 
 ### ジャンプゲームのユーザーステージサーバ開発（Android, iOS）
 
-[ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
+[【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 
 * **mBaaSによるサーバレス開発**（NCMBニフティクラウド利用) 
 * １５０万ダウンロード以上、３０万件のユーザーステージを共有
@@ -49,13 +49,13 @@
 
 FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバックエンド処理を実現します。NCMB(ニフティクラウド)もBaaSの一つです。
 
-[ステージメーカー（エディター）](https://www.youtube.com/watch?v=i24cz-YEUDk)
+[【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
 
 * ジャンプゲームのステージが作れるエディター実装
 
 
 ### [オンライン対戦ゲームアプリ]（iOS,Android）
-[オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
+[【動画】オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
 
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 
@@ -64,15 +64,15 @@ FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバッ�
 
 * インストール不要ですぐに遊べるHTML5ゲーム
 * TypeScript (EgretEngineゲームエンジン)
-* ２０１９年に１８個のカジュアルゲームを制作配信
+* ２０１９年に１８個のカジュアルゲームを制作
 
-- [スーパーボールZ] (https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)
-- [レンガくずし]
-(https://liberapp.net/applications/f6d93180-09d3-11ea-801b-ab3e4d626624/)
-- [サーカスジャンプ]
-(https://liberapp.net/applications/c8f40e00-6264-11e9-b9c7-bb4cf56279c8)
-- [ガードマン]
-(https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
+[スーパーボールZ](https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)
+
+[レンガくずし](https://liberapp.net/applications/f6d93180-09d3-11ea-801b-ab3e4d626624/)
+
+[サーカスジャンプ](https://liberapp.net/applications/c8f40e00-6264-11e9-b9c7-bb4cf56279c8)
+
+[ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
 
 
 ## 使用言語、環境
