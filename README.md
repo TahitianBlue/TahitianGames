@@ -54,7 +54,7 @@ FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバッ�
 * ジャンプゲームのステージが作れるエディター実装(Unity)
 
 
-### [オンライン対戦ゲームアプリ]（iOS,Android）
+### オンライン対戦ゲームアプリ（iOS,Android）
 [【動画】オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
 
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
