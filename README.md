@@ -33,6 +33,12 @@
 * 敵兵士AIプログラム、エフェクト、C++、VUアセンブラプログラミング
 * AAAタイトル開発経験　大規模チームによる連携
 
+### [ワリオワールド]（任天堂 ゲームキューブ 2003 プログラマ）
+[ワリオワールド]: https://www.nintendo.co.jp/ngc/gwwj/index.html
+
+* 主人公プログラム担当（C++）
+* ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
+
 ### ジャンプゲームのバックエンド開発（Android, iOS）
 <!--- 
 [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
@@ -51,6 +57,7 @@ FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバッ�
 [オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
  --->
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
+* 最大１０人参加のジャンプバトルゲーム
 
 ### [Liberapp]様 HTML5カジュアルゲーム開発
 [Liberapp]: https://liberapp.net/
