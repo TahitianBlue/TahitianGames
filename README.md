@@ -13,7 +13,7 @@
 
 ## 主な実績
 
-### [beat gather]（コナミ iOS,Android 2011〜）
+### [beat gather]（コナミ iOS,Android 2011）
 [beat gather]: https://www.youtube.com/watch?v=Rp8JgVIQzIM
 
 * ９００万ダウンロードの人気音楽ゲームアプリ
