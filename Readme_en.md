@@ -31,7 +31,7 @@ Indie game development studio by Tahiti
 * You can play rhythm games with YouTube videos
 * User-created content (UGC) that allows you to create and share musical score data
 * Registered 24 game-related patent applications (inventor)
-* Planning, game design, program, direction
+* Planning, Game design, Program, Direction
 
 ### [Wario World] (Nintendo GameCube 2003 Programmer)
 [Wario World]: https://www.nintendo.co.jp/ngc/gwwj/index.html
