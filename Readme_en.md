@@ -20,18 +20,18 @@ Indie game development studio by Tahiti
 [Metal Gear Solid 3]: https://www.konami.com/mg/archive/hd/mgs/
 
 * Real-time multiplayer online battle game (Metal Gear Online MGO)
-* Enemy soldier's AI program, effects, C++, VU assembler programming
+* Enemy soldier's AI program, effects, C++, VU code programming
 * AAA games development experience
 
 ### [beat gather] (Konami iOS, Android 2011)
 [beat gather]: https://www.youtube.com/watch?v=Rp8JgVIQzIM
 
-* 9 million downloaded rhythm game.
+* 9 million downloaded rhythm game
 * 1st place in AppStore ranking (Japan 2011)
 * You can play rhythm games with YouTube videos
 * User-created content (UGC) that allows you to create and share musical score data
 * Registered 24 game-related patent applications (inventor)
-* Planning, game design, program, direction.
+* Planning, game design, program, direction
 
 ### [Wario World] (Nintendo GameCube 2003 Programmer)
 [Wario World]: https://www.nintendo.co.jp/ngc/gwwj/index.html
