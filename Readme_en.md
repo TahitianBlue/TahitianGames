@@ -76,7 +76,7 @@ Indie game development studio by Tahiti
 * Objective-C
 * Swift
 * GAS (Google Apps Script)
-* Pixel Shader
+* Pixel Shader (Visual Effect)
 * Z80, 68000, PS2VU
 * English communication in text
 
