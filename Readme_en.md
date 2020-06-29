@@ -19,7 +19,7 @@ Indie game development studio by Tahiti
 ### [Metal Gear Solid 3] (Konami PS2 2004 Programmer)
 [Metal Gear Solid 3]: https://www.konami.com/mg/archive/hd/mgs/
 
-* Real-time multiplayer online battle game (Metal Gear Online MGO)
+* Real-time multiplayer online program (Metal Gear Online MGO)
 * Enemy soldier's AI program, effects, C++, VU code programming
 * AAA games development experience
 
@@ -29,8 +29,8 @@ Indie game development studio by Tahiti
 * 9 million downloaded rhythm game
 * 1st place in AppStore ranking (Japan 2011)
 * You can play rhythm games with YouTube videos
-* User-created content (UGC) that allows you to create and share musical score data
-* Registered 24 game-related patent applications (inventor)
+* User-generated content (UGC) create and share musical score data
+* 24 patents inventor
 * Planning, Game design, Program, Direction
 
 ### [Wario World] (Nintendo GameCube 2003 Programmer)
@@ -42,14 +42,14 @@ Indie game development studio by Tahiti
 ### [Smash Runners] (iOS, Android)
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
 * Jump battle game with up to 10 players
-* Unity + ** Real-time multi-player game with Photon Engine(PUN) **
+* Unity + ** Photon real-time multi-player **
 
 ### [Liberapp] HTML5 casual game development
 [Liberapp]: https://liberapp.net/
 
 * HTML5 games for web browser
 * Egret Engine with TypeScript
-* 18 casual games created in 2019
+* 18 casual games in 2019
 
 [Bound Ballz] (https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)
 
@@ -67,16 +67,16 @@ Indie game development studio by Tahiti
 * NCMB（mBaaS）
 * PlayFab（mBaaS）
 * Photon (PUN Real-time online multiplayer engine)
+* EgretEngine (HTML5 game engine)
 * TypeScript
 * JavaScript
 * Python + Django
 * Ruby on Rails
 * PHP + CodeIgniter
-* EgretEngine (HTML5 game engine)
 * Objective-C
 * Swift
 * GAS (Google Apps Script)
 * Pixel Shader (Visual Effect)
 * Z80, 68000, PS2VU
-* English communication in text
+* English communication (text)
 
