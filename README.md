@@ -1,9 +1,18 @@
+
+<!--
 # タヒチさんゲーム
-
 タヒチさんによるゲーム開発スタジオ
-
 * 神奈川県横浜市
 * メールアドレス　blue.ocean.et@gmail.com
+* twitter https://twitter.com/tahitian_games
+-->
+# aomii studio
+タヒチさん（片貝）によるゲーム開発スタジオ aomii
+* http://aomii.work/
+* 神奈川県横浜市
+* メールアドレス aomii.studio@gmail.com
+* twitter タヒチさん https://twitter.com/tahitian_games
+
 
 ## 職務経歴
 
@@ -72,8 +81,8 @@
 
 ## 使用言語、環境
 
-* C#　（Unity, ８年）
-* C/C++ （1997年〜）
+* C#（Unity）
+* C/C++
 * Firebase（mBaaSサーバレスアーキテクチャ）
 * NCMB（mBaaSサーバレスアーキテクチャ）
 * PlayFab（mBaaSサーバレスアーキテクチャ）
