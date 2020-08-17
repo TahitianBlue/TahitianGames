@@ -48,7 +48,7 @@
 * 主人公プログラム担当（C++）
 * ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
 
-### [Liberapp]様 HTML5カジュアルゲーム開発
+### [Liberapp] HTML5カジュアルゲーム開発
 [Liberapp]: https://liberapp.net/
 
 * インストール不要ですぐに遊べるHTML5ゲーム
