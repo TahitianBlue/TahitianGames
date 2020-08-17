@@ -39,26 +39,6 @@
 * 主人公プログラム担当（C++）
 * ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
 
-### ジャンプゲームのバックエンド開発（Android, iOS）
-<!--- 
-[【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
- --->
-* **mBaaSによるサーバレス開発**（NCMBニフティクラウド利用) 
-* １５０万ダウンロード以上、３０万件のユーザーステージを共有
-* 人気ランキング、キーワード検索(regex)
-
-FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバックエンド処理を実現します。NCMB(ニフティクラウド)もBaaSの一つです。
-<!---
-[【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
-* ジャンプゲームのステージが作れるエディター実装(Unity)
- --->
-### [オンライン対戦ゲームアプリ]（iOS,Android）
-<!--- 
-[オンライン対戦ゲームアプリ]: https://youtu.be/Fruh1GVfP-A
- --->
-* Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
-* 最大１０人参加のジャンプバトルゲーム
-
 ### [Liberapp]様 HTML5カジュアルゲーム開発
 [Liberapp]: https://liberapp.net/
 
@@ -73,6 +53,21 @@ FirebaseやPlayFabで注目されているBaaS。サーバ開発レスでバッ�
 [サーカスジャンプ](https://liberapp.net/applications/c8f40e00-6264-11e9-b9c7-bb4cf56279c8)
 
 [ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
+
+
+### ピコラン（iOS, Android）
+[ピコラン]:https://www.youtube.com/watch?v=uW7o02sysB4
+* １５０万ダウンロード以上、３０万件のユーザーステージを共有
+* **mBaaSによるバックエンド開発**（NCMBニフティクラウド利用) 
+* ジャンプゲームのステージが作れるエディター実装(Unity)
+
+[【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
+[【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
+
+### [Smash Runners]（iOS,Android）
+[Smash Runners]: https://youtu.be/Fruh1GVfP-A
+* Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
+* 最大１０人参加のジャンプバトルゲーム
 
 
 ## 使用言語、環境
