@@ -1,17 +1,16 @@
 
-<!--
 # タヒチさんゲーム
 タヒチさんによるゲーム開発スタジオ
 * 神奈川県横浜市
 * メールアドレス　blue.ocean.et@gmail.com
-* twitter https://twitter.com/tahitian_games
--->
+<!--
 # aomii studio
 タヒチさん（片貝）によるゲーム開発スタジオ aomii
 * ウェブサイト http://aomii.work/
 * メールアドレス aomii.studio@gmail.com
 * twitter タヒチさん https://twitter.com/tahitian_games
 * 神奈川県横浜市
+-->
 
 
 ## 職務経歴
@@ -63,20 +62,22 @@
 
 [ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
 
-
+<!--
 ### [ピコラン]（iOS, Android）
 [ピコラン]: https://www.youtube.com/watch?v=uW7o02sysB4
 * １５０万ダウンロードのジャンプアクション、３０万件のユーザーステージを共有
 * **mBaaSによるバックエンド開発**（NCMBニフティクラウド利用) 
 * ジャンプゲームのステージが作れるエディター実装(Unity)
-
 * [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 * [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
+-->
 
+<!--
 ### [Smash Runners]（iOS,Android）
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 * 最大１０人参加のジャンプバトルゲーム
+-->
 
 ## 使用言語、環境
 
