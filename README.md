@@ -8,10 +8,10 @@
 -->
 # aomii studio
 タヒチさん（片貝）によるゲーム開発スタジオ aomii
-* http://aomii.work/
-* 神奈川県横浜市
+* ウェブサイト http://aomii.work/
 * メールアドレス aomii.studio@gmail.com
 * twitter タヒチさん https://twitter.com/tahitian_games
+* 神奈川県横浜市
 
 
 ## 職務経歴
