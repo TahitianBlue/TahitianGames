@@ -56,13 +56,13 @@
 
 
 ### ピコラン（iOS, Android）
-[ピコラン]:https://www.youtube.com/watch?v=uW7o02sysB4
+[ピコラン]: https://www.youtube.com/watch?v=uW7o02sysB4
 * １５０万ダウンロード以上、３０万件のユーザーステージを共有
 * **mBaaSによるバックエンド開発**（NCMBニフティクラウド利用) 
 * ジャンプゲームのステージが作れるエディター実装(Unity)
 
-[【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
-[【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
+* [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
+* [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
 
 ### [Smash Runners]（iOS,Android）
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
