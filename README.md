@@ -47,7 +47,7 @@
 * 主人公プログラム担当（C++）
 * ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
 
-### [Liberapp] HTML5カジュアルゲーム開発
+### [Liberapp] HTML5カジュアルゲーム開発(2019)
 [Liberapp]: https://liberapp.net/
 
 * インストール不要ですぐに遊べるHTML5ゲーム
@@ -61,6 +61,13 @@
 [サーカスジャンプ](https://liberapp.net/applications/c8f40e00-6264-11e9-b9c7-bb4cf56279c8)
 
 [ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
+
+### [らくがきクイズ] (iOS, Android 2020)
+
+[らくがきクイズ]: https://aomii.work/guesswhat/
+
+*Photon + Unityによるオンラインマッチ型クイズゲーム
+*mBaaSによるサーバレス開発
 
 <!--
 ### [ピコラン]（iOS, Android）
