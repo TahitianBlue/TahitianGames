@@ -69,6 +69,7 @@
 * Photon + Unityによるオンラインマッチ型クイズゲーム
 * mBaaSによるサーバレス開発
 
+
 ### [ピコラン]（Namicom2017 iOS, Android）
 [ピコラン]: https://www.youtube.com/watch?v=uW7o02sysB4
 * １５０万ダウンロードのジャンプアクション、３０万件のユーザーステージを共有
@@ -77,11 +78,10 @@
 * [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 * [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
 
-
 ### [Smash Runners]（Namicom2018 iOS,Android）
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
-* Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 * 最大１０人参加のジャンプバトルゲーム
+* Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 
 ## 使用言語、環境
 
