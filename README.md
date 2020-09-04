@@ -29,7 +29,7 @@
 * YouTube動画でリズムゲームができる
 * 譜面データを作って共有できるユーザー作成型コンテンツ(UGC)
 * ゲーム関連特許出願２４件登録（発明者）
-* 企画立案、ゲームデザイン、プログラム
+* 企画立案、ゲームデザイン、プログラムを主導
 
 ### [メタルギアソリッド４]（コナミ PS3 2007 プログラマ)
 [メタルギアソリッド４]: https://www.konami.com/mg/archive/mgs4/jp/
@@ -66,25 +66,22 @@
 
 [らくがきクイズ]: https://aomii.work/guesswhat/
 
-*Photon + Unityによるオンラインマッチ型クイズゲーム
-*mBaaSによるサーバレス開発
+* Photon + Unityによるオンラインマッチ型クイズゲーム
+* mBaaSによるサーバレス開発
 
-<!--
-### [ピコラン]（iOS, Android）
+### [ピコラン]（Namicom2017 iOS, Android）
 [ピコラン]: https://www.youtube.com/watch?v=uW7o02sysB4
 * １５０万ダウンロードのジャンプアクション、３０万件のユーザーステージを共有
 * **mBaaSによるバックエンド開発**（NCMBニフティクラウド利用) 
 * ジャンプゲームのステージが作れるエディター実装(Unity)
 * [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 * [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
--->
 
-<!--
-### [Smash Runners]（iOS,Android）
+
+### [Smash Runners]（Namicom2018 iOS,Android）
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 * 最大１０人参加のジャンプバトルゲーム
--->
 
 ## 使用言語、環境
 
