@@ -62,9 +62,9 @@
 
 [ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
 
-### [らくがきクイズ] (iOS, Android 2020)
+### [らくがきクイズオンライン] (iOS, Android 2020)
 
-[らくがきクイズ]: https://aomii.work/guesswhat/
+[らくがきクイズオンライン]: https://aomii.work/guesswhat/
 
 * Photon + Unityによるオンラインマッチ型クイズゲーム
 * mBaaSによるサーバレス開発
