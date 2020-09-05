@@ -69,7 +69,7 @@
 
 [ハイパー数独](https://liberapp.net/applications/c78746c2-8d9d-4017-8d42-7feb66c1253c)
 
-### [らくがきクイズオンライン] (iOS, Android 2020)
+### [らくがきクイズオンライン] (aomiiスタジオ iOS, Android 2020)
 
 [らくがきクイズオンライン]: https://aomii.work/guesswhat/
 
@@ -88,8 +88,12 @@
 * [【動画】ユーザー作成ステージのサーバ共有](https://youtu.be/p_tYWCg1OZM)
 * [【動画】ステージのエディター](https://www.youtube.com/watch?v=i24cz-YEUDk)
 
+<!--
 ### [Smash Runners]（Namicom2018 iOS,Android）
 [Smash Runners]: https://youtu.be/Fruh1GVfP-A
+-->
+### [マリオ風オンライン対戦ゲーム]（Namicom2018 iOS,Android）
+[マリオ風オンライン対戦ゲーム]: https://youtu.be/Fruh1GVfP-A
 * 最大１０人参加のジャンプバトルゲーム
 * Unity + **Photon(PUN)によるリアルタイム通信対戦**を実装
 
