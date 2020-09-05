@@ -115,5 +115,5 @@
 * Ruby on Rails
 * PHP + CodeIgniter
 * GAS (Google Apps Script)
-* アセンブラ言語（Z80、68000、PS2VUコード、GPUピクセルシェーダ）
+* アセンブラ言語（Z80、6502、68000、PS2VUコード、GPUピクセルシェーダ）
 * 英語（オンライン英会話レッスン こどもと一緒に５年、TOEIC模試アプリ740点）
