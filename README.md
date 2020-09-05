@@ -62,6 +62,10 @@
 
 [ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)
 
+[スピードボール](https://liberapp.net/applications/0c5ade80-df6a-11e9-96eb-1dacf12b6b13)
+
+[ハイパー数独](https://liberapp.net/applications/c78746c2-8d9d-4017-8d42-7feb66c1253c)
+
 ### [らくがきクイズオンライン] (iOS, Android 2020)
 
 [らくがきクイズオンライン]: https://aomii.work/guesswhat/
