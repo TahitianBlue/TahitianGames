@@ -103,10 +103,10 @@
 * C/C++
 * TypeScript
 * JavaScript
+* Firebase
+* NCMB
+* PlayFab
 * Photon (PUN, PUN2 オンライン対戦エンジン)
-* Firebase（mBaaSサーバレスアーキテクチャ）
-* NCMB（mBaaSサーバレスアーキテクチャ）
-* PlayFab（mBaaSサーバレスアーキテクチャ）
 * EgretEngine (HTML5ゲームエンジン)
 * Flutter
 * Objective-C
