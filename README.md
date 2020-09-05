@@ -101,18 +101,19 @@
 
 * C#（Unity）
 * C/C++
+* TypeScript
+* JavaScript
+* Photon (PUN, PUN2 オンライン対戦エンジン)
 * Firebase（mBaaSサーバレスアーキテクチャ）
 * NCMB（mBaaSサーバレスアーキテクチャ）
 * PlayFab（mBaaSサーバレスアーキテクチャ）
-* Photon (PUN, PUN2 オンライン対戦エンジン)
-* TypeScript
-* JavaScript
+* EgretEngine (HTML5ゲームエンジン)
+* Flutter
+* Objective-C
+* Swift
 * Python + Django
 * Ruby on Rails
 * PHP + CodeIgniter
-* EgretEngine (HTML5ゲームエンジン)
-* Objective-C
-* Swift
 * GAS (Google Apps Script)
 * アセンブラ言語（Z80、68000、PS2VUコード、GPUピクセルシェーダ）
-* 英語（オンライン英会話レッスン こどもと一緒に４年）
+* 英語（オンライン英会話レッスン こどもと一緒に５年、TOEIC模試アプリ740点）
