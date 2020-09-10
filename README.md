@@ -64,8 +64,8 @@
 [スピードボール](https://liberapp.net/applications/0c5ade80-df6a-11e9-96eb-1dacf12b6b13)  
 [GitHub](https://github.com/liberapp-inc/h5g-3d-speed)
 
-[弾幕よけろ] (https://liberapp.net/applications/6f8fda10-77c2-11e9-84a5-033d8cb5bdcc)  
-[GitHub] (https://github.com/liberapp-inc/h5g-bullets)
+[弾幕よけろ](https://liberapp.net/applications/6f8fda10-77c2-11e9-84a5-033d8cb5bdcc)  
+[GitHub](https://github.com/liberapp-inc/h5g-bullets)
 
 [ハイパー数独](https://liberapp.net/applications/c78746c2-8d9d-4017-8d42-7feb66c1253c)  
 [GitHub](https://github.com/liberapp-inc/h5g-number-place)
