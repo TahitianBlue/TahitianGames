@@ -5,7 +5,7 @@
 近年はスマートフォン向け「ハイパーカジュアルゲーム」を主体に、小規模ゲームの開発を得意としております。
 
 * 神奈川県横浜市
-* Twitter  https://twitter.com/tahitian_games　
+* Twitter https://twitter.com/tahitian_games
 
 ## 職務経歴
 
