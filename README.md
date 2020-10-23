@@ -1,8 +1,8 @@
 
 # タヒチさん
 
-家庭用ゲームソフト開発に長年携わり、コナミ「メタルギアソリッド」シリーズや任天堂「ワリオ」などの大ヒットゲームの開発にプログラマとして従事。
-近年はスマートフォン向け「ハイパーカジュアルゲーム」を主体に、小規模ゲームの開発を得意としております。
+プログラマとしてコナミ「メタルギアソリッド」シリーズや任天堂「ワリオ」などの大ヒット家庭用ゲームソフトの開発に従事。
+フリーランスとしてスマートフォン向け「ハイパーカジュアルゲーム」を主体に、小規模ゲームの開発を得意としております。
 
 * 神奈川県横浜市
 * Twitter https://twitter.com/tahitian_games
@@ -41,33 +41,31 @@
 * ゲーム関連特許出願２４件登録（発明者）
 * 企画立案、ゲームデザイン、プログラムを主導
 
-
-### [Liberapp] HTML5カジュアルゲーム開発(Liberapp 2019)
-[Liberapp]: https://liberapp.net/
+### HTML5カジュアルゲーム開発(Liberapp 2019)
 
 * インストール不要ですぐに遊べるHTML5ゲーム
 * TypeScript (EgretEngineゲームエンジン)
 * ２０１９年に１８個のカジュアルゲームを制作
 
-[スーパーボールZ](https://liberapp.net/applications/ea9a4e10-3c1d-11e9-85f7-5f2203be7b3a)  
+[スーパーボールZ](http://boe.mixh.jp/egret/BoundBallz/)  
 [GitHub](https://github.com/liberapp-inc/h5g-bound-ballz)
 
-[レンガくずし](https://liberapp.net/applications/f6d93180-09d3-11ea-801b-ab3e4d626624/)  
+[レンガくずし](http://boe.mixh.jp/egret/BricksDown/)  
 [GitHub](https://github.com/liberapp-inc/h5g-bricks-down)
 
-[サーカスジャンプ](https://liberapp.net/applications/c8f40e00-6264-11e9-b9c7-bb4cf56279c8)  
+[サーカスジャンプ](http://boe.mixh.jp/egret/Hook/)  
 [GitHub](https://github.com/liberapp-inc/h5g-hook)
 
-[ガードマン](https://liberapp.net/applications/b4d994f0-6ccb-11e9-bb1d-73ec3f2f63d9)  
+[ガードマン](http://boe.mixh.jp/egret/Guardian/)  
 [GitHub](https://github.com/liberapp-inc/h5g-guardian)
 
-[スピードボール](https://liberapp.net/applications/0c5ade80-df6a-11e9-96eb-1dacf12b6b13)  
+[スピードボール](http://boe.mixh.jp/egret/Speed3D/)  
 [GitHub](https://github.com/liberapp-inc/h5g-3d-speed)
 
-[弾幕よけろ](https://liberapp.net/applications/6f8fda10-77c2-11e9-84a5-033d8cb5bdcc)  
+[弾幕よけろ](http://boe.mixh.jp/egret/Bullets/)  
 [GitHub](https://github.com/liberapp-inc/h5g-bullets)
 
-[ハイパー数独](https://liberapp.net/applications/c78746c2-8d9d-4017-8d42-7feb66c1253c)  
+[ハイパー数独](http://boe.mixh.jp/egret/HyperSudoku/)  
 [GitHub](https://github.com/liberapp-inc/h5g-number-place)
 
 
