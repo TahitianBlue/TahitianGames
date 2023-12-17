@@ -4,7 +4,7 @@
 プログラマとしてコナミ「メタルギアソリッド」シリーズや任天堂「ワリオ」などの大ヒット家庭用ゲームソフトの開発に従事。
 フリーランスとしてスマートフォン向け「ハイパーカジュアルゲーム」を主体に、小規模ゲームの開発を得意としています。
 
-* 神奈川県横浜市
+* 横浜
 * Twitter https://twitter.com/tahitian_games
 
 ## 職務経歴
@@ -71,7 +71,7 @@
 
 ### [らくがきクイズオンライン]（aomii 2020 iOS, Android）
 
-[らくがきクイズオンライン]: https://aomii.work/guesswhat/
+[らくがきクイズオンライン]: https://www.youtube.com/watch?v=sAH76JzSOds
 
 * Photon + Unityによるオンラインマッチ型クイズゲーム
 * mBaaSによるサーバレス開発
