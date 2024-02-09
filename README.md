@@ -2,10 +2,12 @@
 # たひちさん
 
 プログラマとしてコナミ「メタルギアソリッド」シリーズや任天堂「ワリオ」などの大ヒット家庭用ゲームソフトの開発に従事。
+
 フリーランスとしてスマートフォン向け小規模ゲームの開発を得意としています。
-・オンライン対戦ゲーム（Unity+Photon）
-・ユーザー作成コンテンツUGCゲーム（PlayFab）
-・カジュアルゲーム（Unity, Web）
+
+* オンライン対戦ゲーム（Unity+Photon）
+* ユーザー作成コンテンツUGCゲーム（PlayFab）
+* カジュアルゲーム（Unity, Web）
 
 * 横浜
 * Twitter https://twitter.com/tahitian_games
@@ -86,18 +88,22 @@
 * Unity + Photonによるオンラインマッチ型クイズゲーム
 * mBaaSによるサーバレス開発
 
+### シェーダ研究2004
+https://github.com/TahitianBlue/DirectX9Shader2.0/
+![疑似HDRフィルタ](https://raw.githubusercontent.com/TahitianBlue/DirectX9Shader2.0/master/HDRCrossFilter.jpg)
+
 ## 使用言語、環境
 
-* C#（Unity）
-* C/C++
-* TypeScript
+* C#（Unity）10年
+* C/C++ 15年
+* TypeScript 2年
 * JavaScript
+* PlayFab 2年
 * Firebase
 * NCMB
-* PlayFab
 * Photon (PUN, PUN2 オンライン対戦エンジン)
 * EgretEngine (HTML5ゲームエンジン)
-* Flutter
+* Flutter Dart
 * Objective-C
 * Swift
 * Python + Django
@@ -105,4 +111,4 @@
 * PHP + CodeIgniter
 * GAS (Google Apps Script)
 * アセンブラ言語（Z80、6502、68000、PS2VUコード、GPUピクセルシェーダ）
-* 英語（オンライン英会話レッスン こどもと一緒に５年）
+* 英語（こどものオンライン英会話レッスンに８年）
