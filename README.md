@@ -1,8 +1,11 @@
 
-# タヒチさん
+# たひちさん
 
 プログラマとしてコナミ「メタルギアソリッド」シリーズや任天堂「ワリオ」などの大ヒット家庭用ゲームソフトの開発に従事。
-フリーランスとしてスマートフォン向け「ハイパーカジュアルゲーム」を主体に、小規模ゲームの開発を得意としています。
+フリーランスとしてスマートフォン向け小規模ゲームの開発を得意としています。
+・オンライン対戦ゲーム（Unity+Photon）
+・ユーザー作成コンテンツUGCゲーム（PlayFab）
+・カジュアルゲーム（Unity, Web）
 
 * 横浜
 * Twitter https://twitter.com/tahitian_games
@@ -15,12 +18,6 @@
 
 ## 主な実績
 
-### [ワリオワールド]（任天堂 ゲームキューブ 2003 プログラマ）
-[ワリオワールド]: https://www.nintendo.co.jp/ngc/gwwj/index.html
-
-* 主人公プログラム担当（C++）
-* ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
-
 ### [メタルギアソリッド３]（コナミ PS2 2004 プログラマ）
 [メタルギアソリッド３]: https://www.konami.com/mg/archive/hd/mgs/
 
@@ -30,6 +27,12 @@
 * リアルタイムオンライン対戦ゲームの開発経験 (メタルギアオンラインMGO)
 * 敵兵士AIプログラム、エフェクト、C++、VUアセンブラプログラミング
 * AAAタイトル開発経験　大規模チームによる連携
+
+### [ワリオワールド]（任天堂 ゲームキューブ 2003 プログラマ）
+[ワリオワールド]: https://www.nintendo.co.jp/ngc/gwwj/index.html
+
+* 主人公プログラム担当（C++）
+* ミニゲーム「地下部屋」（ゲームデザイン＆プログラム）
 
 ### [ビートギャザー]（コナミ iOS,Android 2011）
 [ビートギャザー]: https://www.youtube.com/watch?v=Rp8JgVIQzIM
@@ -68,18 +71,20 @@
 [ハイパー数独](https://boe.mixh.jp/egret/HyperSudoku/)  
 [GitHub](https://github.com/liberapp-inc/h5g-number-place)
 
+### [UpBeats]（aomii iOS,Android）
+[UpBeats]: https://aomii.work/upbeats/
+* YouTube音楽動画でリズムゲームがプレイできる
+* Unity + **PlayFab UGCによるユーザー譜面共有**を実装
 
-### [らくがきクイズオンライン]（aomii 2020 iOS, Android）
-
-[らくがきクイズオンライン]: https://www.youtube.com/watch?v=sAH76JzSOds
-
-* Photon + Unityによるオンラインマッチ型クイズゲーム
-* mBaaSによるサーバレス開発
-
-### [SMASH RUNNERS]（Namicom iOS,Android）
+### [SMASH RUNNERS]（Namicom iOS,Android サービス終了）
 [SMASH RUNNERS]: https://youtu.be/kG2yayn5oRE
 * 最大１０人参加のジャンプバトルゲーム
 * Unity + **Photon(PUN) によるリアルタイム通信対戦**を実装
+
+### [らくがきクイズオンライン]（aomii 2020 iOS, Android サービス終了）
+[らくがきクイズオンライン]: https://www.youtube.com/watch?v=sAH76JzSOds
+* Unity + Photonによるオンラインマッチ型クイズゲーム
+* mBaaSによるサーバレス開発
 
 ## 使用言語、環境
 
