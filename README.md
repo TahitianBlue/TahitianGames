@@ -46,7 +46,7 @@
 * ゲーム関連特許出願２４件登録（発明者）
 * 企画立案、ゲームデザイン、プログラムを主導
 
-### HTML5カジュアルゲーム開発(Liberapp 2019)
+### HTML5カジュアルゲーム開発(Liberapp 2019 受託開発)
 
 * インストール不要ですぐに遊べるHTML5ゲーム
 * TypeScript (EgretEngineゲームエンジン)
@@ -73,10 +73,20 @@
 [ハイパー数独](https://boe.mixh.jp/egret/HyperSudoku/)  
 [GitHub](https://github.com/liberapp-inc/h5g-number-place)
 
-### [UpBeats]（aomii iOS,Android）
-[UpBeats]: https://aomii.work/upbeats/
-* YouTube音楽動画でリズムゲームがプレイできる
-* Unity + **PlayFab UGCによるユーザー譜面共有**を実装
+### [ごっこランド] (キッズスター iOS,Android 受託開発)
+[ごっこランド]: https://www.kidsstar.co.jp/gokkoland
+* 荻野屋パビリオン開発案件 2021.7
+* パナソニックパビリオン開発案件 2021.10
+* ココスパビリオン開発案件 2022.6
+* 焼肉きんぐ開発案件 2022.10
+* ほっともっとパビリオン改修案件 2022.12
+* セザンヌパビリオン改修案件 2023.4
+* Jmamパビリオン開発案件 2023.9
+* すき家パビリオン改修案件 2024.2
+
+### シェーダ研究2004（個人開発）
+https://github.com/TahitianBlue/DirectX9Shader2.0/
+![疑似HDRフィルタ](https://raw.githubusercontent.com/TahitianBlue/DirectX9Shader2.0/master/HDRCrossFilter.jpg)
 
 ### [SMASH RUNNERS]（Namicom iOS,Android サービス終了）
 [SMASH RUNNERS]: https://youtu.be/kG2yayn5oRE
@@ -88,9 +98,10 @@
 * Unity + Photonによるオンラインマッチ型クイズゲーム
 * mBaaSによるサーバレス開発
 
-### シェーダ研究2004
-https://github.com/TahitianBlue/DirectX9Shader2.0/
-![疑似HDRフィルタ](https://raw.githubusercontent.com/TahitianBlue/DirectX9Shader2.0/master/HDRCrossFilter.jpg)
+### [UpBeats]（aomii 2023 iOS,Android）
+[UpBeats]: https://aomii.work/upbeats/
+* YouTube音楽動画でリズムゲームがプレイできる
+* Unity + **PlayFab UGCによるユーザー譜面共有**を実装
 
 ## 使用言語、環境
 
@@ -100,7 +111,6 @@ https://github.com/TahitianBlue/DirectX9Shader2.0/
 * JavaScript
 * PlayFab 2年
 * Firebase
-* NCMB
 * Photon (PUN, PUN2 オンライン対戦エンジン)
 * EgretEngine (HTML5ゲームエンジン)
 * Flutter Dart
@@ -111,4 +121,4 @@ https://github.com/TahitianBlue/DirectX9Shader2.0/
 * PHP + CodeIgniter
 * GAS (Google Apps Script)
 * アセンブラ言語（Z80、6502、68000、PS2VUコード、GPUピクセルシェーダ）
-* 英語（こどものオンライン英会話レッスンに８年）
+* 英語（こども英会話レッスンに参加）
