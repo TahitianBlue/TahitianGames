@@ -84,6 +84,9 @@
 * Jmamパビリオン開発案件 2023.9
 * すき家パビリオン改修案件 2024.2
 
+### [マクドナルドひるまックゲーム] 開発(Webゲーム)
+[マクドナルドひるまックゲーム]: https://www.mcdonalds.co.jp/activation/hirumac_game/
+
 ### シェーダ研究2004（個人開発）
 https://github.com/TahitianBlue/DirectX9Shader2.0/
 ![疑似HDRフィルタ](https://raw.githubusercontent.com/TahitianBlue/DirectX9Shader2.0/master/HDRCrossFilter.jpg)
