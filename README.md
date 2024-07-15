@@ -93,11 +93,6 @@
 https://github.com/TahitianBlue/DirectX9Shader2.0/
 ![疑似HDRフィルタ](https://raw.githubusercontent.com/TahitianBlue/DirectX9Shader2.0/master/HDRCrossFilter.jpg)
 
-### [SMASH RUNNERS]（Namicom iOS,Android サービス終了）
-[SMASH RUNNERS]: https://youtu.be/kG2yayn5oRE
-* 最大１０人参加のジャンプバトルゲーム
-* Unity + **Photon(PUN) によるリアルタイム通信対戦**を実装
-
 ### [らくがきクイズオンライン]（aomii 2020 iOS, Android サービス終了）
 [らくがきクイズオンライン]: https://www.youtube.com/watch?v=sAH76JzSOds
 * Unity + Photonによるオンラインマッチ型クイズゲーム
